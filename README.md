@@ -24,17 +24,17 @@
 #### Monetization
 
   - [ ] Create an ability for our clients to get charged for every lead they turn **Money Here**
-  -- OR --
+  <br />-- OR --
   - [ ] Charge agencies for this software on a monthly subscription basis, Spencer sells this software. **Money Here**
-  -- OR --
+  <br />-- OR --
   - [ ] Create an Uber like business model for Apartment locating (Friends referring friends, talk to Drew in Austin)
 
 #### Deeper Breakdown
 
-    - [ ] Integrate Stripe into the sign-up process, design a system where people can purchase lead packages, get refunds etc.
-    - [ ] Integrate a Google Maps API to show the pins in particular locations
-    - [ ] Integrate Twillio to track leads and such (Valuable information to the Agent)
-    - [ ] Have a review component that allows the agent to review the particular lead
+  - [ ] Integrate Stripe into the sign-up process, design a system where people can purchase lead packages, get refunds etc.
+  - [ ] Integrate a Google Maps API to show the pins in particular locations
+  - [ ] Integrate Twillio to track leads and such (Valuable information to the Agent)
+  - [ ] Have a review component that allows the agent to review the particular lead
 
 ## Site 3: Automate Posting of Advertisements
 
